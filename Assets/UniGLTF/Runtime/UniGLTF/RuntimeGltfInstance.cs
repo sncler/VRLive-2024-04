@@ -221,11 +221,6 @@ namespace UniGLTF
             Destroy(oldResource);
         }
 
-        public void AddResource<T>(T resource) where T : UnityEngine.Object
-        {
-            _resources.Add((SubAssetKey.Create(resource), resource));
-        }
-
         void OnDestroy()
         {
             foreach (var (_, obj) in _resources)
