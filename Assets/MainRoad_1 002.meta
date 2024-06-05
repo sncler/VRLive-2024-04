@@ -1,7 +1,12 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/MainRoad_1 002.meta
 guid: ce44a79a001ce9c4688d798cd4f68baa
 folderAsset: yes
 DefaultImporter:
+=======
+guid: 6cdb0be28a3bf9743ae91a76d23d4ebb
+AssemblyDefinitionImporter:
+>>>>>>> Stashed changes:Assets/VRMShaders/VRM/MToon/MToon/Editor/MToon.Editor.asmdef.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
